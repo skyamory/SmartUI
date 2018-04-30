@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+a{
+    color: yellowgreen;
+    text-decoration: none;
+}
+a:visited{
+    color: darkcyan;
+}
+a:hover{
+    color: darkblue;
+    text-decoration: underline;
+}
+.info{
+    margin-left: 900px;
+}
+.창{
+    margin-top: 150px;
+    margin-left: 500px;
+    margin-right: 750px;
+    border-style: solid;
+}
