@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+#imgbox{
+    box-shadow: 3px 3px 2px 5px darkcyan;
+}
+#emptybox{
+    height: 100px;
+    width: 100px;
+    box-shadow: 3px 3px 2px 5px darkgreen inset;
+}
+#imgbox:hover{
+    cursor: progress;
+}
